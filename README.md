@@ -97,7 +97,7 @@ GCC, NASM, GDB, QEMU, Make, Git
 
 ## 📫 Let’s Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HERE) *(replace this)*  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rohit-yadav-25535b256/)  
 - 💻 [GitHub](https://github.com/YADAV1825)  
 - 📧 Email: **yrohit1825@gmail.com**  
 - 🌐 Personal Website: Coming soon!! (Learning web dev!!)
