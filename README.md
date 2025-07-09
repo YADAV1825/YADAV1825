@@ -1,4 +1,14 @@
-<h1 align="center">Hi 👋, I'm I'm Rohit Yadav, a systems programming enthusiast and 3rd year CSE student at NIT Jalandhar.</h1> 
+<h1 align="center"><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Rohit+Yadav;I+am+a+systems+programming+enthusiast;I+am+a+3rd+year+IT+student+at+NIT+Jalandhar" alt="Typing SVG" />
+</p></h1> 
+
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c5bd66fb-7f7f-4211-9e51-5feacb9809a1" alt="OS VIDEO ROHIT" width="750"/>
+</p>
+
+
 
 
 <h4 align="left">I specialize in low-level software,</h4>
@@ -34,14 +44,26 @@
 
 ---
 
-**Concepts:**  
-- Operating System Development  
-- Compilers & Bytecode  
-- Virtual Machines  
-- Instruction Set Design  
-- Memory Management  
-- TCP/IP Socket Programming  
-- Kernel-level Debugging
+<table>
+  <tr>
+    <td>
+      <h3><strong>🧠 Concepts I Work With:</strong></h3>
+      <ul>
+        <li><strong>Operating System Development</strong></li>
+        <li><strong>Compilers & Bytecode</strong></li>
+        <li><strong>Virtual Machines</strong></li>
+        <li><strong>Instruction Set Design</strong></li>
+        <li><strong>Memory Management</strong></li>
+        <li><strong>TCP/IP Socket Programming</strong></li>
+        <li><strong>Kernel-level Debugging</strong></li>
+      </ul>
+    </td>
+    <td align="right">
+      <img src="https://github.com/user-attachments/assets/f55b027a-679b-4a10-8976-f6fe0784483c" alt="Concepts GIF" width="250"/>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
