@@ -60,7 +60,7 @@
 ## 📌 Featured Repositories
 
 
-[![RohitOS](https://github-readme-stats.vercel.app/api/pin/?username=YADAV1825&repo=RohitOS-0.1)](https://github.com/YADAV1825/RohitOS)
+
 [![RohitVM](https://github-readme-stats.vercel.app/api/pin/?username=YADAV1825&repo=Virtual-CPU-and-VM-RohitVM)](https://github.com/YADAV1825/Virtual-CPU-and-VM-RohitVM)
 [![BroLang](https://github-readme-stats.vercel.app/api/pin/?username=YADAV1825&repo=BroLang-Stack)](https://github.com/YADAV1825/BroLang-Stack)
 [![WebServer](https://github-readme-stats.vercel.app/api/pin/?username=YADAV1825&repo=CPP-Http-web-server-Single-thread-for-Linux)](https://github.com/YADAV1825/CPP-Http-web-server-Single-thread-for-Linux)
