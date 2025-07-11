@@ -11,7 +11,7 @@
 
 
 
-<h4 align="left">I specialize in low-level software,</h4><h4>from writing bootloaders and virtual machines to building my own compiler and operating system.</h4>
+<h4 align="left">I specialize in low-level software, from writing bootloaders and virtual machines to building my own compiler and operating system.</h4>
 <h4>I don’t just write code. I build the CPU,the VM, the compiler, the OS… and everything in between.</h4>
 
 
