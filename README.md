@@ -69,7 +69,10 @@
 
 [Rohit Portfolio](https://rohityadav1825.netlify.app/)
 
-<img width="654" height="542" alt="image" src="https://github.com/user-attachments/assets/0aea3eea-1165-48a8-ba33-af2dae73b70e" />
+
+<img width="1893" height="942" alt="image" src="https://github.com/user-attachments/assets/93f8d42f-5a46-4213-9c75-10daefea0bcd" />
+
+<img width="1897" height="943" alt="image" src="https://github.com/user-attachments/assets/e89e2f3f-9933-41ab-9d33-33bef047b738" />
 
 
 ---
