@@ -14,13 +14,12 @@
 <h4>I don’t just write code. I build the CPU,the VM, the compiler, the OS… and everything in between.</h4>
 
 
+- 📫 How to reach me *yrohit1825@gmail.com*
 - 🔭 I’m currently working on [System Programming and Web Development](https://github.com/YADAV1825/BroLang-Stack)
 
 - 👨‍💻 All of my projects are available at [https://github.com/YADAV1825/](https://github.com/YADAV1825/)
 
 - 🌐 MY PORTFOLIO WEBSITE [Rohit Portfolio](https://rohityadav1825.netlify.app/)
-
-- 📫 How to reach me **yrohit1825@gmail.com**
 
 - 📄 Know about my experiences here is my [RESUME](https://www.linkedin.com/in/rohit-yadav-25535b256/overlay/1751778271701/single-media-viewer?type=DOCUMENT&profileId=ACoAAD8OZKEBcV3UCV8D5yXDDr-GLclDvKexlac&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BKykAPyKwRWGGeqHw0vTGIw%3D%3D)
 
