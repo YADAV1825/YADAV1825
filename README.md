@@ -87,14 +87,6 @@
 
 ![photo-collage png](https://github.com/user-attachments/assets/0e93c264-12bd-445c-9244-202416dec857)
 
----
-
-## 📌 Featured Repositories
-
-[![RohitOS](https://github-readme-stats.vercel.app/api/pin/?username=YADAV1825&repo=OS-RohitOS)](https://github.com/YADAV1825/OS-RohitOS)
-[![RohitVM](https://github-readme-stats.vercel.app/api/pin/?username=YADAV1825&repo=Virtual-CPU-and-VM-RohitVM)](https://github.com/YADAV1825/Virtual-CPU-and-VM-RohitVM)
-[![BroLang](https://github-readme-stats.vercel.app/api/pin/?username=YADAV1825&repo=BroLang-Stack)](https://github.com/YADAV1825/BroLang-Stack)
-[![WebServer](https://github-readme-stats.vercel.app/api/pin/?username=YADAV1825&repo=CPP-Http-web-server-Single-thread-for-Linux)](https://github.com/YADAV1825/CPP-Http-web-server-Single-thread-for-Linux)
 
 ---
 
