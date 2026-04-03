@@ -28,7 +28,7 @@ I don’t just use tools — I build them. From CPU-level abstractions to full-s
 
 ## 📫 How to reach me **yrohit1825@gmail.com**
 
--
+
 - **Building LLMs from Scratch on TPUs in JAX : find all the base model I built on V4-8 here in the Org [AutonomousX](https://huggingface.co/autonomousX) and complete End to end opne sourced Training scripts and pipelines !!**
   
 - 🔭 I’m currently working on [System Programming and Web Development](https://github.com/YADAV1825/BroLang-Stack)
@@ -37,9 +37,8 @@ I don’t just use tools — I build them. From CPU-level abstractions to full-s
 
 - 🌐 MY PORTFOLIO WEBSITE [Rohit Portfolio](https://rohityadav1825.netlify.app/)
 
-- 📄 **Resume: ** Know about my experiences here is my [RESUME](https://www.linkedin.com/in/rohit-yadav-25535b256/overlay/1751778271701/single-media-viewer?type=DOCUMENT&profileId=ACoAAD8OZKEBcV3UCV8D5yXDDr-GLclDvKexlac&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BKykAPyKwRWGGeqHw0vTGIw%3D%3D)
+- 📄 **Resume:** Know about my experiences here is my [RESUME](https://www.linkedin.com/in/rohit-yadav-25535b256/overlay/1751778271701/single-media-viewer?type=DOCUMENT&profileId=ACoAAD8OZKEBcV3UCV8D5yXDDr-GLclDvKexlac&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BKykAPyKwRWGGeqHw0vTGIw%3D%3D)
 
-- ⚡ Fun fact **“While others import, I build it all from scratch.” — Me, debugging in the kernel at 3am**
 
 ---
 
