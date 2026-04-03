@@ -6,8 +6,11 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c5bd66fb-7f7f-4211-9e51-5feacb9809a1" alt="OS VIDEO ROHIT" width="750"/>
+
+---
   
-  <img width="957" height="890" alt="image" src="https://github.com/user-attachments/assets/27da44dd-a3eb-47ca-af82-99657db20c20" />
+  <img width="1440" height="1079" alt="image" src="https://github.com/user-attachments/assets/224cdf79-22e5-4847-b818-22ae55ad093c" />
+
 
 </p>
 
@@ -18,19 +21,23 @@ I specialize in building systems end-to-end — from low-level infrastructure (b
 </h4>
 
 <h4>
-I don’t just use tools — I build them. From CPU-level abstractions to full-stack AI systems and foundation models.
+I don’t just use tools — I build them. From CPU-level abstractions to full-stack AI systems and **foundation models** !!.
 </h4>
 
 ---
 
-## 📫 How to reach me *yrohit1825@gmail.com*
+## 📫 How to reach me **yrohit1825@gmail.com**
+
+-
+- **Building LLMs from Scratch on TPUs in JAX : find all the base model I built on V4-8 here in the Org [AutonomousX](https://huggingface.co/autonomousX) and complete End to end opne sourced Training scripts and pipelines !!**
+  
 - 🔭 I’m currently working on [System Programming and Web Development](https://github.com/YADAV1825/BroLang-Stack)
 
 - 👨‍💻 All of my projects are available at [https://github.com/YADAV1825/](https://github.com/YADAV1825/)
 
 - 🌐 MY PORTFOLIO WEBSITE [Rohit Portfolio](https://rohityadav1825.netlify.app/)
 
-- 📄 Know about my experiences here is my [RESUME](https://www.linkedin.com/in/rohit-yadav-25535b256/overlay/1751778271701/single-media-viewer?type=DOCUMENT&profileId=ACoAAD8OZKEBcV3UCV8D5yXDDr-GLclDvKexlac&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BKykAPyKwRWGGeqHw0vTGIw%3D%3D)
+- 📄 **Resume: ** Know about my experiences here is my [RESUME](https://www.linkedin.com/in/rohit-yadav-25535b256/overlay/1751778271701/single-media-viewer?type=DOCUMENT&profileId=ACoAAD8OZKEBcV3UCV8D5yXDDr-GLclDvKexlac&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BKykAPyKwRWGGeqHw0vTGIw%3D%3D)
 
 - ⚡ Fun fact **“While others import, I build it all from scratch.” — Me, debugging in the kernel at 3am**
 
