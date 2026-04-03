@@ -66,13 +66,9 @@ I don’t just use tools — I build them. From CPU-level abstractions to full-s
     <td>
       <h3><strong>🧠 Concepts I Work With:</strong></h3>
       <ul>
-        <li><strong>Operating System Development</strong></li>
-        <li><strong>Compilers & Bytecode</strong></li>
-        <li><strong>Virtual Machines</strong></li>
-        <li><strong>Instruction Set Design</strong></li>
-        <li><strong>Memory Management</strong></li>
-        <li><strong>TCP/IP Socket Programming</strong></li>
-        <li><strong>Kernel-level Debugging</strong></li>
+        <li><strong>Systems Engineering:</strong> OS Development, Memory Management, Kernel Debugging</li>
+        <li><strong>Language & Runtime Systems:</strong> Compiler Design, Bytecode Runtimes, Virtual Machines, ISA Design</li>
+        <li><strong>Networking Systems:</strong> Low-level TCP/IP Socket Programming</li>
       </ul>
     </td>
     <td align="right">
