@@ -6,15 +6,24 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c5bd66fb-7f7f-4211-9e51-5feacb9809a1" alt="OS VIDEO ROHIT" width="750"/>
+  
+  <img width="957" height="890" alt="image" src="https://github.com/user-attachments/assets/27da44dd-a3eb-47ca-af82-99657db20c20" />
+
 </p>
 
 
 
-<h4 align="left">I specialize in low-level software, from writing bootloaders and virtual machines to building my own compiler and operating system.</h4>
-<h4>I don’t just write code. I build the CPU,the VM, the compiler, the OS… and everything in between.</h4>
+<h4 align="left">
+I specialize in building systems end-to-end — from low-level infrastructure (bootloaders, virtual machines, compilers, operating systems) to AI/ML, genomics, and large-scale data pipelines.
+</h4>
 
+<h4>
+I don’t just use tools — I build them. From CPU-level abstractions to full-stack AI systems and foundation models.
+</h4>
 
-- 📫 How to reach me *yrohit1825@gmail.com*
+---
+
+## 📫 How to reach me *yrohit1825@gmail.com*
 - 🔭 I’m currently working on [System Programming and Web Development](https://github.com/YADAV1825/BroLang-Stack)
 
 - 👨‍💻 All of my projects are available at [https://github.com/YADAV1825/](https://github.com/YADAV1825/)
