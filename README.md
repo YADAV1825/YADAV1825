@@ -40,7 +40,7 @@ I don’t just use tools — I build them. From CPU-level abstractions to full-s
 ---
 ## Resume
 
-📄 **Resume:** Know about my experiences here is my [RESUME](https://drive.google.com/file/d/15RVjUODRsbE8HJkJ1DkojaaCLgC4xg66/view?usp=sharing)
+📄 **Resume:** Know about my experiences here is my [RESUME](https://rohit-portfolio-yadav1825.vercel.app/Resume_rohit_yadav.pdf)
 
 
 ---
