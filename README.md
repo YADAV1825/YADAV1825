@@ -35,7 +35,7 @@ I don’t just use tools — I build them. From CPU-level abstractions to full-s
 
 - 👨‍💻 All of my projects are available at [https://github.com/YADAV1825/](https://github.com/YADAV1825/)
 
-- 🌐 MY PORTFOLIO WEBSITE [Rohit Portfolio](https://rohityadav1825.netlify.app/)
+- 🌐 MY PORTFOLIO WEBSITE [Rohit Portfolio](https://rohit-portfolio-yadav1825.vercel.app)
 
 ---
 ## Resume
