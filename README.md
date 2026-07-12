@@ -12,8 +12,8 @@
 <!--                       👤 ASCII PORTRAIT                           -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<pre style="font-family: Courier; font-size: 8pt; font-weight: bold; color: white; background-color: black; line-height: 1.1;">
-                                 ,,::;;;;;:::,.                                       
+<pre style="font-family: Courier; font-size: 8pt; font-weight: bold; color: white; background-color: black; line-height: 0.7;">
+                                ,,::;;;;;:::,.                                       
                               ,;11iiii;;;:::,::;;                                     
                             .iii;;:,,,,.,,,,,,,::;:                                   
                             i;:::,,..,,,,,,,,,,,,:ii                                  
