@@ -135,7 +135,7 @@ I specialize in building systems **end-to-end** , from low-level infrastructure 
 
 | Role | Organization | Duration |
 |:-----|:-------------|:---------|
-| 🤖 **AI Research Intern** | Molsys Pvt. Ltd. *(₹75,000 Stipend)* | Jun 2026 – Present |
+| 🤖 **AI Research Intern** | Molsys Pvt. Ltd. | Jun 2026 – Present |
 | 🔬 **Research Lead** | [AutonomousX](https://huggingface.co/autonomousX) | Apr 2026 – Present |
 | 🎓 **ML Summer School** | Amazon *(Selected: 3,000 / 134,000+ applicants)* | Jun 2026 – Jul 2026 |
 | 🌐 **Open Source Contributor** | [Google DeepMind Gemma](https://github.com/google-deepmind/gemma/pull/624) · [Meta LLaMA](https://github.com/meta-llama/llama-models/pull/476) | Mar 2026 – Present |
