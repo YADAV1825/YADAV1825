@@ -42,6 +42,10 @@
 [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-AutonomousX-0a0a0a?style=for-the-badge&labelColor=1a1a2e&color=16213e)](https://huggingface.co/autonomousX)
 [![Email](https://img.shields.io/badge/📧_Email-yrohit1825@gmail.com-0a0a0a?style=for-the-badge&labelColor=1a1a2e&color=16213e)](mailto:yrohit1825@gmail.com)
 
+<br/>
+
+### **[🖥️ About](#about-me) • [💼 Experience](#experience) • [🚀 Projects](#featured-projects) • [🛠️ Stack](#tech-stack) • [📄 Resume](#resume)**
+
 </div>
 
 ---
