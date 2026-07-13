@@ -308,6 +308,7 @@ whilebro (counter < 3) {
 <!--                     🛠️ TECH STACK                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
+<a id="tech-stack"></a>
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -398,6 +399,7 @@ whilebro (counter < 3) {
 <!--                          📄 RESUME                                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
+<a id="resume"></a>
 ## 📄 Resume
 
 <div align="center">
