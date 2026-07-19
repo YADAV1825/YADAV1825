@@ -5,7 +5,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <h1 align="center"><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Rohit+Yadav;I+am+a+systems+programming+enthusiast;I+am+a+3rd+year+IT+student+at+NIT+Jalandhar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Rohit+Yadav;I+am+a+systems+programming+enthusiast;I+am+a+4th+year+IT+student+at+NIT+Jalandhar" alt="Typing SVG" />
 </p></h1>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -58,7 +58,7 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/c5bd66fb-7f7f-4211-9e51-5feacb9809a1" alt="OS VIDEO ROHIT" width="580"/>
 
-I'm **Rohit Yadav**, a 3rd-year **Information Technology** student at <a href="https://www.nitj.ac.in/"><b>NIT Jalandhar</b></a> , and I don't just use tools, **I build them**.
+I'm **Rohit Yadav**, a 4th-year **Information Technology** student at <a href="https://www.nitj.ac.in/"><b>NIT Jalandhar</b></a> , and I don't just use tools, **I build them**.
 
 I specialize in building systems **end-to-end** , from low-level infrastructure *(bootloaders, virtual machines, compilers, operating systems)* to **AI/ML**, genomics, and large-scale data pipelines.
 
